@@ -40,6 +40,7 @@ a {
 
 button {
   cursor: pointer;
+  border: none;
 }
 
 ul,
@@ -54,6 +55,10 @@ ul {
 
 ul {
   list-style-type: none;
+}
+
+input {
+  font-family: inherit;
 }
 
 .section {
