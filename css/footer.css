@@ -69,7 +69,7 @@
   color: #fff;
   font-weight: 400;
   letter-spacing: 0.04em;
-  line-height: 1.17;
+  line-height: 1.5;
   font-size: 12px;
 
   width: 264px;
@@ -97,6 +97,7 @@
 
   letter-spacing: 0.04em;
   line-height: 1.5;
+  font-weight: 500;
 
   border-radius: 4px;
   padding: 8px 24px;
